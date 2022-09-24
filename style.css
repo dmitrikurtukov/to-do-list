@@ -77,8 +77,9 @@ li {
 }
 
 .filters span.active {
-  color: #fd1d1d;
+  color: #833ab4;
   transition: 0.2s;
+  font-weight: bold;
 }
 
 .controls .clear-btn {
